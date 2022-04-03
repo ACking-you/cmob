@@ -1,0 +1,1 @@
+-isystem D:/vcpkg/vcpkg/packages/nlohmann-json_x64-mingw-static/include -isystem D:/vcpkg/vcpkg/packages/glog_x64-mingw-static/include -isystem D:/vcpkg/vcpkg/packages/gflags_x64-mingw-static/include

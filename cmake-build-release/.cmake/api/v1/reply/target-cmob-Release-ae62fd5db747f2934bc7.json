@@ -1,0 +1,182 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "cmob.exe"
+		},
+		{
+			"path" : "cmob.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O3 -DNDEBUG"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "GFLAGS_DLL_DECLARE_FLAG="
+				},
+				{
+					"backtrace" : 2,
+					"define" : "GFLAGS_DLL_DEFINE_FLAG="
+				},
+				{
+					"backtrace" : 2,
+					"define" : "GFLAGS_IS_A_DLL=0"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "GLOG_NO_ABBREVIATED_SEVERITIES"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "GOOGLE_GLOG_DLL_DECL="
+				},
+				{
+					"backtrace" : 2,
+					"define" : "JSON_DIAGNOSTICS=0"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "JSON_USE_IMPLICIT_CONVERSIONS=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/vcpkg/vcpkg/packages/nlohmann-json_x64-mingw-static/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/vcpkg/vcpkg/packages/glog_x64-mingw-static/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/vcpkg/vcpkg/packages/gflags_x64-mingw-static/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "cmob::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-O3 -DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "D:\\vcpkg\\vcpkg\\packages\\glog_x64-mingw-static\\lib\\libglog.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ldbghelp",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "D:\\vcpkg\\vcpkg\\packages\\gflags_x64-mingw-static\\lib\\libgflags_static.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lshlwapi",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "cmob",
+	"nameOnDisk" : "cmob.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

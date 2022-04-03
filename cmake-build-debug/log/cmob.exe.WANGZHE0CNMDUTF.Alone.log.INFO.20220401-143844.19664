@@ -1,0 +1,9 @@
+Log file created at: 2022/04/01 14:38:44
+Running on machine: WANGZHE0CNMDUTF
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0401 14:38:44.457059  4024 main.cpp:168] set log path:D:\CLion Project\cmob\cmake-build-debug\log
+I0401 14:38:44.458060  4024 main.cpp:169] is log file switch ok?D:\CLion Project\cmob\cmake-build-debug\log
+I0401 14:38:44.458060  4024 main.cpp:64] start read json_file
+I0401 14:38:44.459059  4024 main.cpp:93] read json_file successful!
+I0401 14:38:44.459059  4024 main.cpp:236] show command start...
+W0401 14:38:44.459059  4024 main.cpp:252] template name not exist

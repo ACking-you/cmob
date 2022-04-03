@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/CLion Project/cmob/build",
+  "command": "D:\\Qt6\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DGFLAGS_DLL_DECLARE_FLAG=\"\" -DGFLAGS_DLL_DEFINE_FLAG=\"\" -DGFLAGS_IS_A_DLL=0 -DGLOG_NO_ABBREVIATED_SEVERITIES -DGOOGLE_GLOG_DLL_DECL=\"\" -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 @CMakeFiles/cmob.dir/includes_CXX.rsp -g -o CMakeFiles\\cmob.dir\\main.cpp.obj -c \"D:\\CLion Project\\cmob\\main.cpp\"",
+  "file": "D:/CLion Project/cmob/main.cpp"
+}
+]

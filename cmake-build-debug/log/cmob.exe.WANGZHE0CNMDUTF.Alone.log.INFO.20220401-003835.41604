@@ -1,0 +1,9 @@
+Log file created at: 2022/04/01 00:38:35
+Running on machine: WANGZHE0CNMDUTF
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0401 00:38:35.493600 40344 main.cpp:169] set log path:cmake-build-debug\log
+I0401 00:38:35.494601 40344 main.cpp:170] is log file switch ok?cmake-build-debug\log
+I0401 00:38:35.494601 40344 main.cpp:64] start read json_file
+I0401 00:38:35.494601 40344 main.cpp:93] read json_file successful!
+I0401 00:38:35.494601 40344 main.cpp:186] add command start...
+I0401 00:38:35.495607 40344 main.cpp:100] write json_file successful!

@@ -1,0 +1,3 @@
+D:/CLion Project/cmob/build/CMakeFiles/cmob.dir
+D:/CLion Project/cmob/build/CMakeFiles/edit_cache.dir
+D:/CLion Project/cmob/build/CMakeFiles/rebuild_cache.dir

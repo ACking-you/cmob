@@ -1,0 +1,1 @@
+ D:/vcpkg/vcpkg/packages/glog_x64-mingw-static/debug/lib/libglog.a -ldbghelp D:/vcpkg/vcpkg/packages/gflags_x64-mingw-static/debug/lib/libgflags_static_debug.a -lshlwapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

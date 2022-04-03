@@ -1,0 +1,9 @@
+Log file created at: 2022/04/03 14:27:26
+Running on machine: WANGZHE0CNMDUTF
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0403 14:27:26.080184  5508 main.cpp:168] set log path:D:\CLion Project\cmob\cmake-build-release\log
+I0403 14:27:26.080184  5508 main.cpp:169] is log file switch ok?D:\CLion Project\cmob\cmake-build-release\log
+I0403 14:27:26.080184  5508 main.cpp:64] start read json_file
+I0403 14:27:26.080184  5508 main.cpp:93] read json_file successful!
+I0403 14:27:26.080184  5508 main.cpp:180] list command start...
+I0403 14:27:26.080184  5508 main.cpp:303] list exec:template_name:
